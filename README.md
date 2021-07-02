@@ -138,6 +138,12 @@ export default {
 </style>
 
 ```
+![screenshot01](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.22.png)
+![screenshot02](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.34.png)
+![screenshot03](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.46.png)
+![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.30.35.png)
+![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.30.50.png)
+![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.31.27.png)
 
 ## Configuration (props)
 
