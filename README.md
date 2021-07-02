@@ -1,4 +1,4 @@
-# nuxtjs-bootstrap-sidebar
+# nuxtjs-bootstrap-sidebar2
 Sidebar component for Vue apps created using the project's bootstrap-vue fork vue-bootstrap-sidebar by Juraj Kavka
 # :bookmark_tabs: vue-bootstrap-sidebar :bookmark_tabs:
 
@@ -9,10 +9,10 @@ Sidebar component for Vue apps created using the project's bootstrap-vue fork vu
 ## Preview
 For the preview just clone this repository and run *dev* server.
 ```
-git clone https://github.com/thiagopinto/nuxtjs-bootstrap-sidebar.git
+git clone https://github.com/thiagopinto/nuxtjs-bootstrap-sidebar22.git
 ```
 ```
-cd nuxtjs-bootstrap-sidebar
+cd nuxtjs-bootstrap-sidebar2
 ```
 ```
 npm install
@@ -28,7 +28,7 @@ npm run serve
 ### Installation from npm registry
 You can use `npm`
 ```
-nuxtjs-bootstrap-sidebar
+nuxtjs-bootstrap-sidebar2
 ```
 
 ### Integration to  the project
@@ -55,7 +55,7 @@ So, Your main `app` component should look like on this example:
 ```html
 <template>
   <div id="app">
-    <nuxtjs-bootstrap-sidebar 
+    <nuxtjs-bootstrap-sidebar2 
       :initial-show="initialShow" 
       :links="links"
       :fa="true"
@@ -91,7 +91,7 @@ So, Your main `app` component should look like on this example:
           <router-view />
         </b-container>
       </template>
-    </nuxtjs-bootstrap-sidebar>
+    </nuxtjs-bootstrap-sidebar2>
   </div>
 </template>
 
@@ -138,12 +138,12 @@ export default {
 </style>
 
 ```
-![screenshot01](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.22.png)
-![screenshot02](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.34.png)
-![screenshot03](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.46.png)
-![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.30.35.png)
-![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.30.50.png)
-![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.31.27.png)
+![screenshot01](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar2/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.22.png)
+![screenshot02](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar2/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.34.png)
+![screenshot03](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar2/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.29.46.png)
+![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar2/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.30.35.png)
+![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar2/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.30.50.png)
+![screenshot04](https://raw.githubusercontent.com/thiagopinto/nuxtjs-bootstrap-sidebar2/main/screenshot/Captura%20de%20Tela%202021-07-02%20às%2011.31.27.png)
 
 ## Configuration (props)
 
